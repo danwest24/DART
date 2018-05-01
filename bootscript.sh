@@ -6,6 +6,7 @@ power on
 discoverable on
 pairable on
 sudo python testAutoPair.py
+sudo python DART.py
 
 
 
