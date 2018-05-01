@@ -23,3 +23,7 @@ Arduino low-level software:
 - sets motors
 - reads IMU, Ultrasonic rangefinders, force-sensitive resistor, and current sensors
 - handles serial transmission to Pi
+
+All software written by Dan West
+
+Please contact danielwest7@gmail.com with any questions or concerns
